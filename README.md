@@ -1,0 +1,4 @@
+# eeChange-MRes-Project
+This repository contains scripts for analysis to assess the effects of nitrogen pollution on soil carbon.
+
+With large stores of organic matter in peatlands, permafrost, and other organic soils becoming more accessible to microbes due to climate change, understanding and quantifying the enzymatic processes relating to decomposition is of the upmost importance. Soil microbial extracellular enzymes catalyze the decomposition of soil organic matter. Production of these enzymes is costly and requires considerable amounts of nitrogen – an element which is often limiting in forest soils. Therefore, nitrogen availability ultimately governs whether organic matter is broken down. Nitrogen inputs can also have more subtle impacts on organic matter decay, altering which types of extracellular enzymes are produced and therefore which types of plant compounds persist in soils. 
